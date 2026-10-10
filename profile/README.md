@@ -1,8 +1,8 @@
 # Third Age Studio
 
-**Custom Shopify experiences your team can still edit.**
+**Standout Shopify experiences, without the developer dependency.**
 
-Third Age Studio is an independent Shopify studio. It builds interactive storefronts and product experiences for brands that have outgrown their theme, then hands them over so your own team can run them without calling a developer for every change. You work directly with the person who builds it.
+Third Age Studio is an independent Shopify studio. It builds interactive storefronts and product experiences for brands that have outgrown their theme, then hands them over ready for your own team to run, update and grow. You work directly with the person who builds it.
 
 ### What I build
 
