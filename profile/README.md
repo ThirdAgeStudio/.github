@@ -15,10 +15,6 @@ Third Age Studio is an independent Shopify studio. It builds interactive storefr
 
 Shopify (Liquid, theme blocks, metaobjects, Storefront and Admin APIs) · TypeScript · Next.js · React · three.js / `<model-viewer>` · GSAP · Builder.io · Node
 
-### Open work
-
-Public demos and starter code live in this org. Client work stays private.
-
 ---
 
 [thirdagestudio.com](https://thirdagestudio.com) · support@thirdagestudio.com
