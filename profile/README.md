@@ -21,4 +21,4 @@ Public demos and starter code live in this org. Client work stays private.
 
 ---
 
-[thirdagestudio.com](https://thirdagestudio.com) · hello@thirdagestudio.com
+[thirdagestudio.com](https://thirdagestudio.com) · support@thirdagestudio.com
